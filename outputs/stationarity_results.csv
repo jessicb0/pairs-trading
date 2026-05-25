@@ -1,0 +1,6 @@
+Series,ADF_PValue,KPSS_PValue,Conclusion
+SHW (niveau),0.6916,0.01,NON-STATIONNAIRE ❌
+HD (niveau),0.5763,0.01,NON-STATIONNAIRE ❌
+SHW (Δlog),0.0,0.1,STATIONNAIRE ✅
+HD (Δlog),0.0,0.1,STATIONNAIRE ✅
+Spread SHW-β×HD,0.0035,0.0402,"AMBIGU ⚠️  (ADF rejette, KPSS rejette — série complexe)"

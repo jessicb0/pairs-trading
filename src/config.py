@@ -1,0 +1,21 @@
+TICKERS = [
+    "AAPL", "AMGN", "AMZN", "AXP", "BA",
+    "CAT", "CRM", "CSCO", "CVX", "DIS",
+    "GS", "HD", "HON", "IBM", "JNJ",
+    "JPM", "KO", "MCD", "MMM", "MRK",
+    "MSFT", "NKE", "NVDA", "PG", "SHW",
+    "TRV", "UNH", "V", "VZ", "WMT"
+]
+
+START_DATE = "2022-01-01"
+END_DATE = "2025-01-01"
+
+CORR_THRESHOLD = 0.60
+PVALUE_THRESHOLD = 0.10
+DISTANCE_THRESHOLD = 0.70
+
+STOCK_A = "SHW"
+STOCK_B = "HD"
+
+ENTRY_THRESHOLD = 2.0
+EXIT_THRESHOLD = 0.5
