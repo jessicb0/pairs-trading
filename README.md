@@ -15,6 +15,11 @@ Ce projet implémente un pipeline complet de recherche quantitative pour le pair
 
 Le projet est construit autour d’un workflow réaliste de pair trading sur des actions américaines.
 
+## Rapport
+
+Le rapport final du projet est disponible ici :
+
+[Voir le rapport PDF](report/report.pdf)
 
 # Fonctionnalités
 
@@ -293,3 +298,5 @@ Possibilités d’amélioration :
 - Streaming temps réel
 - Exécution live
 - Intégration de données alternatives
+
+
